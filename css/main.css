@@ -12,6 +12,10 @@ h1, h2 {
   text-transform: uppercase;
 }
 
+h1, h2, nav {
+  font-family: 'Patua One', sans-serif;
+}
+
 figcaption {
   font-size: .8rem;
   font-style: italic;
@@ -30,4 +34,8 @@ nav a {
 nav a:hover {
   color: #b42885;
   text-decoration: underline;
+}
+
+.intro {
+  font-size: 1rem;
 }
